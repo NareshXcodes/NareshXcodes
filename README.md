@@ -36,10 +36,6 @@
 ---
 
 ## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NareshXcodes&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NareshXcodes&theme=radical" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshXcodes&layout=compact&theme=radical" alt="Top Languages" height="165"/>
