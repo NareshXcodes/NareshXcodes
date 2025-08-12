@@ -38,8 +38,28 @@
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshXcodes&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NareshXcodes&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NareshXcodes&theme=tokyonight" alt="GitHub streak" height="165"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshXcodes&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NareshXcodes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+</p>
+
+---
+
+## 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NareshXcodes&theme=tokyo-night" alt="Contribution Graph"/>
+</p>
+
 
 ---
 
