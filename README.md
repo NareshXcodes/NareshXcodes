@@ -10,7 +10,7 @@
 - 🎓 2nd-year B.Tech student from Silicon University  
 - ☁️ AWS Internship Completed  
 - 📱 Currently mastering **Kotlin** for Android Dev  
-- 🛠 Building: **FindMySlot**, **DevPilot**, **PullPilot** 
+- 🛠 Building: **FindMySlot** 
 - 🎯 Goal: Crack Android Dev role or internship after 2nd year  
 - 💡 Always ideating high-impact projects for hackathons/startups  
 
