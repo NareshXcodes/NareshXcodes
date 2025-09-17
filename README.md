@@ -64,9 +64,7 @@
 ---
 
 ## 🏆 Achievements  
-- 🥇 Built **Smart ERP System** for HackOdisha 5.0  
-- 🚀 AWS Internship completed successfully  
-- 💡 Multiple hackathon-ready project ideas  
+- 🚀 AWS Internship completed successfully 
 
 ---
 
