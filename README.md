@@ -36,12 +36,28 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/NareshXcodes?label=Followers&style=social" alt="followers"/>
   <img src="https://img.shields.io/github/repo-count/NareshXcodes?style=flat-square" alt="repo-count"/>
-  <img src="https://img.shields.io/github/languages/top/NareshXcodes?style=flat-square" alt="top-language"/>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshXcodes&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="300"/>
+  </p>
 </p>
 
+---
+
+## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://ghchart.rshah.org/NareshXcodes" alt="contribution-graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=NareshXcodes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
 </p>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NareshXcodes&custom_title=Contribution%20Activity&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)
+
+</div>
 
 ---
 
