@@ -18,16 +18,16 @@
 ## 🛠 Tech Stack
 
 **Languages**  
-C++ · Java · JavaScript · Kotlin · HTML · CSS
+`C++` · `Java` · `JavaScript` · `Kotlin` · `HTML` · `CSS`
 
 **Frameworks & Libraries**  
-ReactJS · TailwindCSS · Jetpack Compose · XML
+`ReactJS` · `TailwindCSS` · `Jetpack Compose` · `XML`
 
 **Cloud & Backend**  
-AWS · Firebase · Node.js
+`AWS` · `Firebase` · `Node.js`
 
 **Databases & Tools**  
-Room DB · Git · GitHub · VS Code · Android Studio
+`Room DB` · `Git` · `GitHub` · `VS Code` · `Android Studio`
 
 ---
 
