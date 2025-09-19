@@ -35,7 +35,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/NareshXcodes?label=Followers&style=social" alt="followers"/>
-  <img src="https://img.shields.io/github/repo-count/NareshXcodes?style=flat-square" alt="repo-count"/>
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=NareshXcodes&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 ![Naresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NareshXcodes&show_icons=true&theme=github_dark)
 
