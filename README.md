@@ -36,7 +36,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/NareshXcodes?label=Followers&style=social" alt="followers"/>
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=NareshXcodes&theme=fire&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NareshXcodes&theme=dark&ring=ff4500&fire=ff6b00&currStreakNum=ffdd00&sideNums=ffffff&currStreakLabel=ff4500&sideLabels=ffffff&dates=aaaaaa&hide_border=false)](https://git.io/streak-stats)
 
 ![Naresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NareshXcodes&show_icons=true&theme=github_dark)
 
