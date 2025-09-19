@@ -37,6 +37,8 @@
   <img src="https://img.shields.io/github/followers/NareshXcodes?label=Followers&style=social" alt="followers"/>
   <img src="https://img.shields.io/github/repo-count/NareshXcodes?style=flat-square" alt="repo-count"/>
 
+![Naresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=NareshXcodes&show_icons=true&theme=github_dark)
+
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NareshXcodes&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="300"/>
   </p>
