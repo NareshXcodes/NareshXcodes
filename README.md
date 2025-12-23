@@ -11,7 +11,7 @@ I am 2nd Year B.Tech Student from Silicon University
 *   ✉️  You can contact me at [codes.xdev@gmail.com](mailto:codes.xdev@gmail.com)
 *   🧠  I'm currently learning Backend Services
 *   🤝  I'm open to collaborating on high-impact projects for hackathons/startups
-*   💬  Ask me about I write bugs 🐞 , so I can fix them 🛠️
+*   ⚡  I write bugs 🐞 , so I can fix them 🛠️
 
 ### Skills
 <p align="left">
