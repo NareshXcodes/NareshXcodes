@@ -10,7 +10,7 @@ I am 2nd Year B.Tech Student from Silicon University
 *   🖥️  See my portfolio at [Portfolio](http://portfolio-nareshxcodes-projects.vercel.app/)
 *   ✉️  You can contact me at [codes.xdev@gmail.com](mailto:codes.xdev@gmail.com)
 *   🧠  I'm currently learning Backend Services
-*   👥  I'm looking to collaborate on high-impact projects for hackathons/startups
+*   🤝  I'm open to collaborating on high-impact projects for hackathons/startups
 *   💬  Ask me about I write bugs 🐞 , so I can fix them 🛠️
 
 ### Skills
