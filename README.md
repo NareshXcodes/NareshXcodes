@@ -14,13 +14,15 @@ I am 2nd Year B.Tech Student from Silicon University
 *   ⚡  I write bugs 🐞 , so I can fix them 🛠️
 
 ### Skills
-#### Frontend
+#### _Frontend_
 [![Frontend](https://skillicons.dev/icons?i=js,html,css,react,tailwind,materialui)](https://skillicons.dev)
-#### Language
+#### _Language_
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py)](https://skillicons.dev)
-#### Tools/Platform
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,androidstudio)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws,firebase,)](https://skillicons.dev)
+#### _Python Libraries_
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40"/>
+
+#### _Tools/Platform_
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,aws,firebase)](https://skillicons.dev)
 
 ### Socials
                 
