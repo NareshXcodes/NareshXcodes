@@ -58,7 +58,7 @@ I am 2nd Year B.Tech Student from Silicon University
 
 ## 🏆 Achievements
 - 🚀 AWS Internship completed successfully
-
+- 🥈 Secured 1st Runner-Up in the Web Hunt event at Dev Summit 3.0, organized by GDG On Campus, Silicon University.
 ---
 
 > "Turning caffeine into code and ideas into products." ☕💻
