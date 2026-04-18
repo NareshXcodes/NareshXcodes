@@ -5,13 +5,14 @@ Software Developer
 ------------------
 
 I am 2nd Year B.Tech Student from Silicon University
-
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" align="right"/>
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [Portfolio](https://portfolio-alpha-smoky-5qnbw7i5xz.vercel.app/)
 *   ✉️  You can contact me at [codes.xdev@gmail.com](mailto:codes.xdev@gmail.com)
 *   🧠  I'm currently learning Backend Services
 *   🤝  I'm open to collaborating on high-impact projects for hackathons/startups
 *   ⚡  I write bugs 🐞 , so I can fix them 🛠️
+
 
 ### Skills
 #### _Frontend_
@@ -31,18 +32,8 @@ I am 2nd Year B.Tech Student from Silicon University
 ---
 
 ## 📊 GitHub Snapshot
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/NareshXcodes?label=Followers&style=social" alt="followers"/>
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=NareshXcodes&theme=dark&ring=ff4500&fire=ff6b00&currStreakNum=ffdd00&sideNums=ffffff&currStreakLabel=ff4500&sideLabels=ffffff&dates=aaaaaa&hide_border=false)](https://git.io/streak-stats)
-
----
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NareshXcodes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
-</p>
 
 ---
 
@@ -54,8 +45,6 @@ I am 2nd Year B.Tech Student from Silicon University
 
 </div>
 
-
-### Contribution
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NareshXcodes/NareshXcodes/output/pacman-dark.svg"/>
