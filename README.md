@@ -7,7 +7,7 @@ Software Developer
 I am 2nd Year B.Tech Student from Silicon University
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" align="right"/>
 *   🌍  I'm based in India
-*   🖥️  See my portfolio at [Portfolio](https://portfolio-alpha-smoky-5qnbw7i5xz.vercel.app/)
+*   🖥️  See my portfolio at [Portfolio](https://naresh-dev.vercel.app)
 *   ✉️  You can contact me at [codes.xdev@gmail.com](mailto:codes.xdev@gmail.com)
 *   🧠  I'm currently learning Backend Services
 *   🤝  I'm open to collaborating on high-impact projects for hackathons/startups
@@ -17,6 +17,10 @@ I am 2nd Year B.Tech Student from Silicon University
 ### Skills
 #### _Frontend_
 [![Frontend](https://skillicons.dev/icons?i=js,html,css,react,tailwind,materialui)](https://skillicons.dev)
+#### _Backend_
+[![backend](https://skillicons.dev/icons?i=fastapi,postman)](https://skillicons.dev)
+#### _Database_
+[![database](https://skillicons.dev/icons?i=supabase,postgresql)](https://skillicons.dev)
 #### _Language_
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py)](https://skillicons.dev)
 #### _Python Libraries_
