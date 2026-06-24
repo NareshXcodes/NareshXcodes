@@ -18,9 +18,9 @@ I am 2nd Year B.Tech Student from Silicon University
 #### _Frontend_
 [![Frontend](https://skillicons.dev/icons?i=js,html,css,react,tailwind,materialui)](https://skillicons.dev)
 #### _Backend_
-[![backend](https://skillicons.dev/icons?i=fastapi,postman)](https://skillicons.dev)
+[![backend](https://skillicons.dev/icons?i=fastapi,nodejs,express,postman)](https://skillicons.dev)
 #### _Database_
-[![database](https://skillicons.dev/icons?i=supabase,postgresql)](https://skillicons.dev)
+[![database](https://skillicons.dev/icons?i=postgresql,sqlite,supabase)](https://skillicons.dev)
 #### _Language_
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py)](https://skillicons.dev)
 #### _Python Libraries_
