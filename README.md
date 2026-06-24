@@ -14,20 +14,21 @@ I am 2nd Year B.Tech Student from Silicon University
 *   ⚡  I write bugs 🐞 , so I can fix them 🛠️
 
 
-### Skills
-#### _Frontend_
-[![Frontend](https://skillicons.dev/icons?i=js,html,css,react,tailwind,materialui)](https://skillicons.dev)
-#### _Backend_
-[![backend](https://skillicons.dev/icons?i=fastapi,nodejs,express,postman)](https://skillicons.dev)
-#### _Database_
+## Skills
+### _Backend_
+[![backend](https://skillicons.dev/icons?i=fastapi,nodejs,express,postman,prisma)](https://skillicons.dev)
+### _Database_
 [![database](https://skillicons.dev/icons?i=postgresql,sqlite,supabase)](https://skillicons.dev)
-#### _Language_
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py)](https://skillicons.dev)
-#### _Python Libraries_
+### _Cloud & DevOps_
+[![My Skills](https://skillicons.dev/icons?i=aws,git,github,docker,terraform)](https://skillicons.dev)
+### _Tools/Platform_
+[![My Skills](https://skillicons.dev/icons?i=linux,vercel,netlify)](https://skillicons.dev)
+### _Frontend_
+[![Frontend](https://skillicons.dev/icons?i=js,react,tailwind)](https://skillicons.dev)
+### _Language_
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,py,kotlin)](https://skillicons.dev)
+### _Python Libraries_
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40"/>
-
-#### _Tools/Platform_
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,aws,firebase)](https://skillicons.dev)
 
 ### Socials
                 
