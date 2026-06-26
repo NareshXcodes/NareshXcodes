@@ -7,7 +7,7 @@ Software Developer
 I am 2nd Year B.Tech Student from Silicon University
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" align="right"/>
 *   🌍  I'm based in India
-*   🖥️  See my portfolio at [Portfolio](https://naresh.xyz)
+*   🖥️  See my portfolio at [Portfolio](https://nareshm.xyz)
 *   ✉️  You can contact me at [codes.xdev@gmail.com](mailto:codes.xdev@gmail.com)
 *   🧠  I'm currently learning Backend Services
 *   🤝  I'm open to collaborating on high-impact projects for hackathons/startups
