@@ -20,9 +20,9 @@ I am 2nd Year B.Tech Student from Silicon University
 ### _Database_
 [![database](https://skillicons.dev/icons?i=postgresql,sqlite,supabase)](https://skillicons.dev)
 ### _Cloud & DevOps_
-[![My Skills](https://skillicons.dev/icons?i=aws,git,github,docker,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,git,github,docker)](https://skillicons.dev)
 ### _Tools/Platform_
-[![My Skills](https://skillicons.dev/icons?i=linux,vercel,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,vercel,render)](https://skillicons.dev)
 ### _Frontend_
 [![Frontend](https://skillicons.dev/icons?i=js,react,tailwind)](https://skillicons.dev)
 ### _Language_
