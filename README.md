@@ -5,7 +5,7 @@
 Backend Developer
 ------------------
 
-I am 2nd Year B.Tech Student from Silicon University
+I am 3rd Year B.Tech Student from Silicon University
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" align="right"/>
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [Portfolio](https://nareshm.xyz)
@@ -41,9 +41,8 @@ I am 2nd Year B.Tech Student from Silicon University
   
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=NareshXcodes&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=NareshXcodes&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-<!--   <img width=325 align="center" src="https://github-readme-stats-aryan7412.vercel.app/api/top-langs/?username=aryan7412&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=NareshXcodes&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
 ---
