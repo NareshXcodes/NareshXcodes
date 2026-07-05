@@ -40,9 +40,8 @@ I am 3rd Year B.Tech Student from Silicon University
 ## 📊 GitHub Snapshot
   
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=NareshXcodes&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <br/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=NareshXcodes&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=NareshXcodes&count_private=true&theme=github-dark-blue&hide_border=true" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=NareshXcodes&count_private=true&show_icons=true&theme=github-dark-blue&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
 ---
