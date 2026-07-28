@@ -1,21 +1,27 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 name: Generate Pacman
 
-# Controls when the action will run.
-on:
-  schedule:
-      # every 12 hours
-    - cron: "0 */12 * * *"
-
-  # This command allows us to run the Action automatically from the Actions tab.
-  workflow_dispatch:
-  
-  # Also run on every push on the main branch
-  push:
-    branches:
-    - main
+permissions:
+  contents: write
 
 # The sequence of runs in this workflow:
+on:
+  # Run on pushes to main (commits)
+  push:
+    branches:
+      - main
+  # Run on other activity so the contribution graphic updates quickly
+  pull_request:
+  issues:
+  issue_comment:
+  pull_request_review:
+  release:
+  watch:
+  workflow_dispatch:
+  # Fallback schedule: every 5 minutes for near-real-time updates
+  schedule:
+    - cron: "*/5 * * * *"
+
 jobs:
   # This workflow contains a single job called "build"
   build:
@@ -27,17 +33,16 @@ jobs:
       - name: Clone repo
         uses: actions/checkout@v3
     
-      - name: Generate the snake files in './dist/'
+      - name: Generate the pacman files in './dist/'
         uses: Platane/snk@v3
-        id: snake-gif
+        id: generate-pacman
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/pacman.svg?type=pacman&color_snake=%2358A6FF&color_dots=%231f6feb,%231f6feb,%230d5bd1,%23003d99,%23002766&color_empty=%230d1117
+            dist/pacman-dark.svg?type=pacman&palette=github-dark&color_snake=%2358A6FF&color_dots=%231f6feb,%231f6feb,%230d5bd1,%23003d99,%23002766&color_empty=%230d1117
         env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Show build status
         run: git status
