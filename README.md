@@ -56,6 +56,20 @@ I am a B.Tech Student from Silicon University
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NareshXcodes/NareshXcodes/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NareshXcodes/NareshXcodes/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/NareshXcodes/NareshXcodes/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 🏆 Achievements
 - 🚀 AWS Internship completed successfully
 - 🥈 Secured 1st Runner-Up in the Web Hunt event at Dev Summit 3.0, organized by GDG On Campus, Silicon University.
