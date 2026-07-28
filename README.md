@@ -54,13 +54,6 @@ I am a B.Tech Student from Silicon University
 
 </div>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NareshXcodes/NareshXcodes/output/pacman-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NareshXcodes/NareshXcodes/output/pacman.svg"/>
-  <img src="https://raw.githubusercontent.com/NareshXcodes/NareshXcodes/output/pacman.svg?v=20260728T1230" />
-</picture>
-
 ---
 
 ## 🏆 Achievements
