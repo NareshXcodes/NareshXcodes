@@ -5,7 +5,7 @@
 Backend Developer
 ------------------
 
-I am 3rd Year B.Tech Student from Silicon University
+I am a B.Tech Student from Silicon University
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" align="right"/>
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [Portfolio](https://nareshm.xyz)
@@ -58,7 +58,7 @@ I am 3rd Year B.Tech Student from Silicon University
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NareshXcodes/NareshXcodes/output/pacman-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NareshXcodes/NareshXcodes/output/pacman.svg"/>
-  <img alt="pacman contribution" src="https://raw.githubusercontent.com/NareshXcodes/NareshXcodes/output/pacman-dark.svg" width="100%"/>
+  <img alt="pacman contribution" src="https://raw.githubusercontent.com/NareshXcodes/NareshXcodes/output/pacman.svg" width="100%"/>
 </picture>
 
 ---
