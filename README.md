@@ -58,7 +58,7 @@ I am a B.Tech Student from Silicon University
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NareshXcodes/NareshXcodes/output/pacman-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NareshXcodes/NareshXcodes/output/pacman.svg"/>
-  <img alt="pacman contribution" src="https://raw.githubusercontent.com/NareshXcodes/NareshXcodes/output/pacman.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/NareshXcodes/NareshXcodes/output/pacman.svg?v=20260728T1230" />
 </picture>
 
 ---
