@@ -16,26 +16,26 @@ I am a B.Tech Student from Silicon University
 
 
 ## Skills
-### _Backend_
-[![backend](https://skillicons.dev/icons?i=fastapi,nodejs,express,postman,prisma)](https://skillicons.dev)
-### _Database_
-[![database](https://skillicons.dev/icons?i=postgresql,sqlite,supabase)](https://skillicons.dev)
-### _Cloud & DevOps_
-[![My Skills](https://skillicons.dev/icons?i=aws,git,github,docker)](https://skillicons.dev)
-### _Tools/Platform_
-[![My Skills](https://skillicons.dev/icons?i=linux,vercel,render)](https://skillicons.dev)
-### _Frontend_
-[![Frontend](https://skillicons.dev/icons?i=js,react,tailwind)](https://skillicons.dev)
-### _Language_
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,py,kotlin)](https://skillicons.dev)
-### _Python Libraries_
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40"/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postman,prisma,postgresql,sqlite,supabase,aws,git,github,docker" alt="skills" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,py" alt="programming languages" />
+</p>
 
 
 ---
 
 ## 📊 GitHub Snapshot
-  
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NareshXcodes&color=6366f1&style=flat-square&label=Profile+views" alt="Profile Views" />
+</p>
+
+
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=NareshXcodes&count_private=true&theme=github-dark-blue&hide_border=true" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=NareshXcodes&count_private=true&show_icons=true&theme=github-dark-blue&rank_icon=github&border_radius=10" alt="readme stats" />
