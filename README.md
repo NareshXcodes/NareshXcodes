@@ -18,7 +18,7 @@ I am a B.Tech Student from Silicon University
 ## Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postman,prisma,postgresql,sqlite,supabase,aws,git,github,docker" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postman,prisma,postgresql,sqlite,supabase,aws,git,github,docker,githubactions" alt="skills" />
 </p>
 
 <p align="center">
